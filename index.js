@@ -258,6 +258,7 @@ return arr;
 }
 console.log(get20s(artists));
 
+
 /* Task 5: Create a function called `removeArtist` that takes two arguments:
 *     (1) artists array
 *     (2) a number which is the desired index in the array.
